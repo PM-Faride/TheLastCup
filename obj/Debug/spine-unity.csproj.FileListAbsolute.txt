@@ -1,0 +1,1051 @@
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\spine-unity.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\spine-unity.pdb
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\mscorlib.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\netstandard.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.AppContext.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Collections.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ComponentModel.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Console.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Core.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Data.Common.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Data.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Drawing.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Globalization.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.Compression.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.Pipes.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Linq.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Http.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Ping.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Requests.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Security.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.Sockets.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Numerics.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ObjectModel.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Reflection.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Resources.Reader.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Resources.Writer.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Claims.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.Principal.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Security.SecureString.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Text.Encoding.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.Thread.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Threading.Timer.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Transactions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.ValueTuple.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Web.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Windows.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.Linq.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.XPath.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.UI.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.VR.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.Cecil.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\ExCSS.Unity.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\UnityProjects\UnityProjects\Cuphead\Temp\bin\Debug\UnityEditor.VR.xml
+C:\UnityProjects\UnityProjects\Cuphead\obj\Debug\spine-unity.csprojResolveAssemblyReference.cache
+C:\UnityProjects\UnityProjects\Cuphead\obj\Debug\spine-unity.csproj.CoreCompileInputs.cache
+C:\UnityProjects\UnityProjects\Cuphead\obj\Debug\spine-unity.csproj.CopyComplete
+C:\UnityProjects\UnityProjects\Cuphead\obj\Debug\spine-unity.dll
+C:\UnityProjects\UnityProjects\Cuphead\obj\Debug\spine-unity.pdb
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\spine-unity.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\spine-unity.pdb
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\mscorlib.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\netstandard.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Rewired_Core.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Rewired_Editor.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Rewired_Windows_Lib.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.AppContext.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Collections.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ComponentModel.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Console.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Core.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Data.Common.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Data.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Drawing.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Globalization.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.Compression.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.Pipes.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Linq.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Http.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Ping.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Requests.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Security.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.Sockets.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Numerics.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ObjectModel.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Reflection.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Resources.Reader.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Resources.Writer.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Claims.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.Principal.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Security.SecureString.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Text.Encoding.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.Thread.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Threading.Timer.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Transactions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.ValueTuple.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Web.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Windows.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.Linq.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.XPath.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.UI.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.VR.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Unity.Cecil.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\ExCSS.Unity.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\UnityEditor.VR.xml
+C:\UnityProjects\Like Cuphead\Temp\bin\Debug\Rewired_Core.xml
+C:\UnityProjects\Like Cuphead\obj\Debug\spine-unity.csprojResolveAssemblyReference.cache
+C:\UnityProjects\Like Cuphead\obj\Debug\spine-unity.csproj.CoreCompileInputs.cache
+C:\UnityProjects\Like Cuphead\obj\Debug\spine-unity.csproj.CopyComplete
+C:\UnityProjects\Like Cuphead\obj\Debug\spine-unity.dll
+C:\UnityProjects\Like Cuphead\obj\Debug\spine-unity.pdb
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\spine-unity.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\spine-unity.pdb
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\mscorlib.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\netstandard.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.AppContext.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Collections.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ComponentModel.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Console.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Core.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Data.Common.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Data.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Drawing.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Globalization.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.Compression.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.Pipes.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Linq.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Http.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Ping.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Requests.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Security.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.Sockets.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Numerics.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ObjectModel.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Reflection.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Resources.Reader.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Resources.Writer.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Claims.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.Principal.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Security.SecureString.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Text.Encoding.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.Thread.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Threading.Timer.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Transactions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.ValueTuple.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Web.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Windows.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.Linq.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.XPath.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.UI.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.UWP.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.VR.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Unity.Cecil.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\ExCSS.Unity.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.pdb
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.UWP.Extensions.pdb
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\UnityProject\Like Cuphead - Copy\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\UnityProject\Like Cuphead - Copy\obj\Debug\spine-unity.csprojResolveAssemblyReference.cache
+C:\UnityProject\Like Cuphead - Copy\obj\Debug\spine-unity.csproj.CoreCompileInputs.cache
+C:\UnityProject\Like Cuphead - Copy\obj\Debug\spine-unity.csproj.CopyComplete
+C:\UnityProject\Like Cuphead - Copy\obj\Debug\spine-unity.dll
+C:\UnityProject\Like Cuphead - Copy\obj\Debug\spine-unity.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\spine-unity.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\spine-unity.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\mscorlib.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\netstandard.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.AppContext.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Collections.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ComponentModel.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Console.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Core.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Data.Common.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Data.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Drawing.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Globalization.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.Compression.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.Pipes.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Linq.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Http.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Ping.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Requests.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Security.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.Sockets.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Numerics.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ObjectModel.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Reflection.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Resources.Reader.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Resources.Writer.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Claims.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.Principal.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Security.SecureString.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Text.Encoding.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.Thread.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Threading.Timer.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Transactions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.ValueTuple.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Web.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Windows.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.Linq.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.XPath.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.Graphs.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.UWP.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.VR.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Unity.Cecil.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\ExCSS.Unity.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\Unity.CecilTools.dll
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.UWP.Extensions.pdb
+D:\TheLastCup\Like Cuphead\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.pdb
+D:\TheLastCup\Like Cuphead\obj\Debug\spine-unity.csproj.AssemblyReference.cache
+D:\TheLastCup\Like Cuphead\obj\Debug\spine-unity.csproj.CoreCompileInputs.cache
+D:\TheLastCup\Like Cuphead\obj\Debug\spine-unity.csproj.CopyComplete
+D:\TheLastCup\Like Cuphead\obj\Debug\spine-unity.dll
+D:\TheLastCup\Like Cuphead\obj\Debug\spine-unity.pdb

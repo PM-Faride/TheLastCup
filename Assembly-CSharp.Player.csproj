@@ -1,0 +1,1945 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6066E543-6188-A440-E372-875A7F02E00F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile></TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>4.11.4.0</UnityProjectGeneratorVersion>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
+    <UnityVersion>2019.4.20f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\Player\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\Player\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_20;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\Player\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\Player\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_2019_4_20;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;UNITY_POST_PROCESSING_STACK_V2;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="spine-unity-examples">
+      <HintPath>Library/ScriptAssemblies/spine-unity-examples.dll</HintPath>
+    </Reference>
+    <Reference Include="spine-unity">
+      <HintPath>Library/ScriptAssemblies/spine-unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem.Recorder">
+      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.Recorder.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem.InGameHints">
+      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.InGameHints.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem.VirtualMouseInput">
+      <HintPath>Library/ScriptAssemblies/Unity.InputSystem.VirtualMouseInput.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="InputSystem.Samples.Visualizers">
+      <HintPath>Library/ScriptAssemblies/InputSystem.Samples.Visualizers.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DSPGraphModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubsystemsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>D:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="spine-unity-examples-editor">
+      <HintPath>Library/ScriptAssemblies/spine-unity-examples-editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="spine-unity-editor">
+      <HintPath>Library/ScriptAssemblies/spine-unity-editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Tracing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\Extensions\2.0.0\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ComponentModel.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.ServiceModel.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Transactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Serialization">
+      <HintPath>D:\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\AirplaneDamageSfx.cs" />
+    <Compile Include="Assets\Art and Animation\#ParalaxPrefab\EnviromentHandler.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\AirPlaneShootingEffect.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\AirplaneController.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\Airplane_Bullet.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\Airplane_Smoke.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\DustDictionary.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\EnviromenMovement3.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\EnviromentMovement2.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\ExplodeEffect2.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\HandleControll.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\HealthCounterPhase.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\InterfacePlayerDust.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\Player_CollideDetector.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\Player_CollideDetector2.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\RunnerPlayerGroundDetector.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\ShadowHandler.cs" />
+    <Compile Include="Assets\Art and Animation\#Player\ShowFPS.cs" />
+    <Compile Include="Assets\Art and Animation\#PlayerRunner\BoyPlayerRunner.cs" />
+    <Compile Include="Assets\Art and Animation\#PlayerRunner\RunnerBullet.cs" />
+    <Compile Include="Assets\Art and Animation\#PlayerRunner\RunnerDashDust.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Basket.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\BasketHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\ButcherBoss.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\CanBoss.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\CanBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Cleaver.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\DestroyHen.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Egg.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Fork.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Grounds.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Hen.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\HenHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Hook.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\HookHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Mushroom.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\MushroomController.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\OilA.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\OilB.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\OilGun.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\Steak.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\SteakHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Butcher\Scripts\SteakOnGround.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_Corn.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_Onion.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_OnionBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_OnionHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_Phase2.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_PopCorn.cs" />
+    <Compile Include="Assets\Art and Animation\Cannibal\CannibalBoss_WomanPhase.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_Arrow.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_BallBouncer.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_DragonBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_FlyingDragon.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_FlyingMouse.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_HandJuggler.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_Handler.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_RingBird.cs" />
+    <Compile Include="Assets\Art and Animation\Clown\Scripts\GhostBoss_RingHandler.cs" />
+    <Compile Include="Assets\Art and Animation\FinalBoss\Scripts\Test_Movement.cs" />
+    <Compile Include="Assets\Art and Animation\FinalBoss\Scripts\Test_MovementHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_AllBlade.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Barrel.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_BarrelHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Blade.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Key.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_KeyHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_KeyHealth.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Obstacle.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Platform.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_PlatformHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_PlatformToBlade.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_TarinBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom 2\Scripts\Freedom2_Train.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Blade.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_BtnTrigger.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Btns.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_ColumnHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_EggHand.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_EggRoterBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_EggSkull.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Explotion.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Goblin.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_GoblinEnviroment.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Hole.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Kiss.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_ManAttack.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_PlayerEnviroment.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_RoterBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Skull.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Thunder.cs" />
+    <Compile Include="Assets\Art and Animation\Freedom1\Freedom1_Woman.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\JadooGar_Kise.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Dragon.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_DragonFire.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Explode.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_FX.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_JaSoozani.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Jadoogar.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Komod.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_MagicFire.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Medad.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Medad2.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Mooshak.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_MooshakHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Sanjagh.cs" />
+    <Compile Include="Assets\Art and Animation\Jadoogar\#Scripts\Jadoogar_Tile.cs" />
+    <Compile Include="Assets\Art and Animation\Manhunt\Manhunt_JellyFish.cs" />
+    <Compile Include="Assets\Art and Animation\Maps\Map1\Scripts\MapColorChanger.cs" />
+    <Compile Include="Assets\Art and Animation\Maps\ObjectMovement.cs" />
+    <Compile Include="Assets\Art and Animation\Menu\BtnTapSound.cs" />
+    <Compile Include="Assets\Art and Animation\Menu\MenuSceneHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Menu\OptionAllSettingPanel.cs" />
+    <Compile Include="Assets\Art and Animation\Menu\OptionPanel.cs" />
+    <Compile Include="Assets\Art and Animation\Menu\SavedSlotPanel.cs" />
+    <Compile Include="Assets\Art and Animation\Modes\BombMode\BombForBombMode.cs" />
+    <Compile Include="Assets\Art and Animation\Modes\BombMode\BombModeHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Modes\MissileMode\MissileForMissileMode.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\BladeBoardAttack.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\BladeBoardsHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\BlueRake.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\BoardBladeAttack.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\CurveEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\CurveEnemyBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\CurveParent.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\CurveSetHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\EnemyParent.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\LightBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_Circle.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_CircleHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_HazardChangak.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_Phase1.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_Phase2.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_SmokeChild.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazBoss_SmokeEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\MortazEnemyHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\PinkChangak.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\PinkRake.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\ShivaBoss.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\ShivaBossV2.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\SmokeEnemyMove.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\SnakeEnemyMove.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\StarChangak.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\StarRakeHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\Storm.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\StormHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\TestChangak.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\TestChangakBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\TriangleBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\TriangleEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Scripts\WaterBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Mortaz\Test\Missile.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Bomb.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Bottle.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Chang.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_CurrentPlatform.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Note.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_ObjectMovement.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Pig.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Platform.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_PlatformDetector.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_ScorpionBullet.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Tabar.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_TabarCharacter.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Thunder.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_ThunderHandler.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Yonje.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\RomanBoss_Zeytoon.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\Scripts\RomaBoss_PlatformHandler.cs" />
+    <Compile Include="Assets\Art and Animation\RomaBoss\Scripts\Test_MovingPaltform.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_DestroySand.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_HandlerHedghog.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_HandlerMooshkoor.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Hedgehog.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_HedgehogHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Moorchekhar.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Mooshkoor.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_MooshkoorPlayerDetector.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Phase1.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Phase2.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Phase3.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Phase3Handler.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_ScaryBird.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_ScaryBirdHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Trap.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_Worm.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\CrowBoss_WormBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner1_Jumper.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner1_RunEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner1_TestBomb.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner1_TestEnemy1.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner1_TestOrib.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner_HealthCounter.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\#Scripts\Runner_TestDesign.cs" />
+    <Compile Include="Assets\Art and Animation\Runner1\Runner exp\RunnerEnviromentDetector.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\HoleEnemy.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Blow.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Boomrang.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_BoomrangManGround.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_BoomrangSky.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Cane.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_CaneBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_HandlePlatformFinalPhase.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Hat.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_IcecreamBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_IcecreamMachine.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_IceyPlatform.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_MachineBullet.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Pangooan.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Phase3Fire.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_SnowWoman.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Wave.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_WaveHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\TabalugaBoss_Weight.cs" />
+    <Compile Include="Assets\Art and Animation\Tabaluga\Scripts\Tabaluga_FallEffect.cs" />
+    <Compile Include="Assets\Art and Animation\UI\LosePanel\LosePanelAnime.cs" />
+    <Compile Include="Assets\Art and Animation\UI\PausePanel\PausePanel.cs" />
+    <Compile Include="Assets\Art and Animation\UI\SimpleModeHandler\SimpleModeHandler.cs" />
+    <Compile Include="Assets\Art and Animation\UI\WinPanel\WinPanelAnime.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Dog.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Hamber.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_HamberAttacker.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_HamburFly.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Lamb.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_LastLambDetector.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Phase1.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Phase1Bullet.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Phase2.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_Phase3.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_PhaseHandler.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\WolfBoss_WizardStar.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\Wolf_Lamb.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\#Scripts\Wolf_WolfLamb.cs" />
+    <Compile Include="Assets\Art and Animation\Wolf\TestExport\EnviromentMovement.cs" />
+    <Compile Include="Assets\BlendModes\Extensions\Components\UnityEngine.Camera\CameraExtension.cs" />
+    <Compile Include="Assets\BlendModes\Extensions\Components\UnityEngine.MeshRenderer\MeshRendererExtension.cs" />
+    <Compile Include="Assets\BlendModes\Extensions\Components\UnityEngine.SpriteRenderer\SpriteRendererExtension.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\BlendMode.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\BlendModeEffect.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ComponentExtension.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ComponentExtensionState.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\MaskBehaviour.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\MaskMode.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\MaskableGraphicExtension.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\RenderMode.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\RendererExtension.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ShaderProperty.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ShaderPropertyType.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ShaderResources.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\ShaderUtilities.cs" />
+    <Compile Include="Assets\BlendModes\Runtime\SharedMaterials.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Anomaly.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Binary.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_BlackHole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Computer.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Distortion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Fog_Smoke.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Ghost.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Inverse.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Matrix.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Mirror.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Myst.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Scan_Scene.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Shield.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_3D_Snow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_Blood.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_BloodOnScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_Blood_Hit.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_Blood_Plus.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_SuperComputer.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_SuperHexagon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_WaterDrop.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_AAA_WaterDropPro.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Alien_Vision.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Antialiasing_FXAA.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Fog.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Rain.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Rain_Pro.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Rain_Pro_3D.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Atmosphere_Snow_8bits.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Blend.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_BlueScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorBurn.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorDodge.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_ColorKey.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Darken.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_DarkerColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Difference.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Divide.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Exclusion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_GreenScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_HardMix.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Hue.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Lighten.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LighterColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearBurn.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearDodge.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_LinearLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Luminosity.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Multiply.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Overlay.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PhotoshopFilters.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_PinLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Saturation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Screen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SoftLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SplitScreen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_SplitScreen3D.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_Subtract.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blend2Camera_VividLight.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blizzard.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Bloom.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_BlurHole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Blurry.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_DitherOffset.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Dithering2x2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Focus.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_GaussianBlur.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Movie.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Radial_Fast.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Regular.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Steam.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Tilt_Shift.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Tilt_Shift_Hole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Blur_Tilt_Shift_V.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Broken_Screen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_BrightContrastSaturation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Chromatic_Aberration.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Chromatic_Plus.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Contrast.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_GrayScale.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Invert.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_RGB.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Sepia.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_Switching.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Color_YUV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_ColorRGB.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_FullColors.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Adjust_PreFilters.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_BleachBypass.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Brightness.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_DarkColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HSV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_HUE_Rotate.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_NewPosterize.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_RgbClamp.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Colors_Threshold.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Convert_Normal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Aspiration.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_BigFace.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_BlackHole.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dissipation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Dream2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_FishEye.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flag.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Flush.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Half_Sphere.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Heat.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Lens.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_ShockWave.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_ShockWaveManual.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Twist.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Twist_Square.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Water_Drop.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Distortion_Wave_Horizontal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_BluePrint.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_CellShading2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Comics.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Crosshatch.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Curve.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_EnhancedComics.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Halftone.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Laplacian.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Lines.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga4.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Flash.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_FlashWhite.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Manga_Flash_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_NewCellShading.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Paper.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Paper2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Paper3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Drawing_Toon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_Rotation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EXTRA_SHOWFPS.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_BlackLine.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Edge_filter.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Golden.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Neon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sigmoid.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Edge_Sobel.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_EyesVision_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_8bits_gb.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Ascii.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DarkMatter.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrix.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_DigitalMatrixDistortion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Dot_Circle.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Drunk2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_EarthQuake.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Funk.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Glitch3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Grid.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hexagon_Black.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Hypno.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_InverChromiLum.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Mirror.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Plasma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Psycho.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Scan.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Screens.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_Spot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_ZebraColor.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_FX_superDot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Film_ColorPerfection.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Film_Grain.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Fly_Vision.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On_3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On_4.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On_5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glasses_On_6.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glitch_Mozaic.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glow_Glow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Glow_Glow_Color.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Ansi.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Desert.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_ElectricGradient.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_FireGradient.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Hue.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_NeonGradient.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Rainbow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Stripe.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Tech.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Gradients_Therma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Rainbow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Rainbow2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Light_Water2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Lut_PlayWith.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Lut_Plus.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Lut_Simple.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Lut_TestMode.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVisionFX.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_NightVision_4.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Noise_TV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Noise_TV_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Noise_TV_3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision3.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_NightVision5.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Oculus_ThermaVision.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting1.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_OldFilm_Cutting2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixel_Pixelisation.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_Dot.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaint.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_OilPaintHQ.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Pixelisation_Sweater.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Real_VHS.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Retro_Loading.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Sharpen_Sharpen.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Special_Bubble.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_50.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_80.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_ARCADE_Fast.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Artefact.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_BrokenGlass2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Chromatical.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Chromatical2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_CompressionFX.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Distorted.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Horror.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_LED.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_MovieNoise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Noise.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Old_Movie_2.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_PlanetMars.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Posterize.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Rgb.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Tiles.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_VHS_Rewind.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vcr.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Video3D.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Videoflip.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vignetting.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_Vintage.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenCircle.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHV.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenHorizontal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_TV_WideScreenVertical.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_VHS_Tracking.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Aura.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_AuraDistortion.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Blood.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Blood_Fast.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Crystal.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Drost.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Hell_Blood.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Plasma.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Psycho.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Rainbow.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_SniperScore.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Tunnel.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp.cs" />
+    <Compile Include="Assets\Camera Filter Pack\Scripts\CameraFilterPack_Vision_Warp2.cs" />
+    <Compile Include="Assets\CurveEditor\Bezier.cs" />
+    <Compile Include="Assets\CurveEditor\MovingOnPath.cs" />
+    <Compile Include="Assets\CurveEditor\PathCreator.cs" />
+    <Compile Include="Assets\CurveEditor\PathCurve.cs" />
+    <Compile Include="Assets\CurveEditor\PathPlacer.cs" />
+    <Compile Include="Assets\CurveEditor\RoadCreator.cs" />
+    <Compile Include="Assets\Global Scripts\AttackPointNode.cs" />
+    <Compile Include="Assets\Global Scripts\BossHealth.cs" />
+    <Compile Include="Assets\Global Scripts\BoxForSTarMode.cs" />
+    <Compile Include="Assets\Global Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Global Scripts\DamageHandlerRunner.cs" />
+    <Compile Include="Assets\Global Scripts\DetectorCollision.cs" />
+    <Compile Include="Assets\Global Scripts\ExplodeEffect.cs" />
+    <Compile Include="Assets\Global Scripts\FreedomHandler.cs" />
+    <Compile Include="Assets\Global Scripts\GameData.cs" />
+    <Compile Include="Assets\Global Scripts\GameManager.cs" />
+    <Compile Include="Assets\Global Scripts\HealthCounter.cs" />
+    <Compile Include="Assets\Global Scripts\HealthTogether.cs" />
+    <Compile Include="Assets\Global Scripts\MissileModeHandler.cs" />
+    <Compile Include="Assets\Global Scripts\MissileModeStaticClass.cs" />
+    <Compile Include="Assets\Global Scripts\OtherSoundManager.cs" />
+    <Compile Include="Assets\Global Scripts\RandomNumber.cs" />
+    <Compile Include="Assets\Global Scripts\SaveSystem.cs" />
+    <Compile Include="Assets\Global Scripts\SoundManager.cs" />
+    <Compile Include="Assets\Global Scripts\SoundManagerForLoop.cs" />
+    <Compile Include="Assets\Global Scripts\StarModeHandler.cs" />
+    <Compile Include="Assets\Global Scripts\StartAnimation.cs" />
+    <Compile Include="Assets\Global Scripts\TestJoyStick.cs" />
+    <Compile Include="Assets\Global Scripts\TestShadow.cs" />
+    <Compile Include="Assets\Global Scripts\UiHandleController.cs" />
+    <Compile Include="Assets\Global Scripts\UiLosePanel.cs" />
+    <Compile Include="Assets\Global Scripts\UiWinPanel.cs" />
+    <Compile Include="Assets\RomanBoss_BgHandler.cs" />
+    <Compile Include="Assets\RomanBoss_BrosBoss.cs" />
+    <Compile Include="Assets\RomanBoss_ChunkCreator.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Custom Binding Composite\CustomComposite.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Custom Device Usages\CustomDeviceUsages.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Custom Device\CustomDevice.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Demo\SimpleController_UsingActionAsset.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Demo\SimpleController_UsingActions.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Demo\SimpleController_UsingPlayerInput.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Demo\SimpleController_UsingState.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Demo\SimpleControls.cs" />
+    <Compile Include="Assets\Samples\Input System\1.0.1\Simple Multiplayer\SimpleMultiplayerPlayer.cs" />
+    <Compile Include="Assets\Scripts\Bullet\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Bullet\BulletDictionary.cs" />
+    <Compile Include="Assets\Scripts\Bullet\InterfaceBullet.cs" />
+    <Compile Include="Assets\Scripts\Bullet\ShootBullet.cs" />
+    <Compile Include="Assets\Scripts\Bullet\ShootBullet2.cs" />
+    <Compile Include="Assets\Scripts\CameraShake.cs" />
+    <Compile Include="Assets\Scripts\JetPackController.cs" />
+    <Compile Include="Assets\Scripts\LifeTime.cs" />
+    <Compile Include="Assets\Scripts\PlatformHandler.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerController2.cs" />
+    <Compile Include="Assets\Scripts\PlayerDamageDetector.cs" />
+    <Compile Include="Assets\Scripts\PlayerDust.cs" />
+    <Compile Include="Assets\Scripts\PlayerDustHandler.cs" />
+    <Compile Include="Assets\Scripts\TestFreeze.cs" />
+    <Compile Include="Assets\Scripts\TestUiElements.cs" />
+    <Compile Include="Assets\Scripts\Variables.cs" />
+    <Compile Include="Assets\SpeedForRunner.cs" />
+    <Compile Include="Assets\Test\MyDictionary.cs" />
+    <Compile Include="Assets\Test\Test.cs" />
+    <Compile Include="Assets\Test\TestDictionary.cs" />
+    <Compile Include="Assets\Test\TestObjectPool.cs" />
+    <Compile Include="Assets\Test\TestSingleton.cs" />
+    <Compile Include="Assets\Test\TestTime.cs" />
+    <Compile Include="Assets\Test\Test_JoyStick.cs" />
+    <Compile Include="Assets\Test\Test_Juggler.cs" />
+    <Compile Include="Assets\Test\Test_Runner.cs" />
+    <Compile Include="Assets\Test\Test_Space.cs" />
+    <Compile Include="Assets\Test\testLerp.cs" />
+    <Compile Include="Assets\Test\test_cameraSpeed.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+    <Compile Include="Assets\test_Meymoon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Art and Animation\##DanceTest\dance character\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\##DanceTest\json EX\dance.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\BBB Bullet-F1\brushBoyBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\BBB flying-F1\BBB flying.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\BBB flying-F2\BBB flying.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\BoyShip-F7\boyShip.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\BoyShip-T F\boyShip.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\babyBrushBoy-F2\babyBrushBoy.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\babyBrushBoy-F3\babyBrushBoy.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\babyBrushBoy-F4\babyBrushBoy.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\eagleBoy-F10\boy CH.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\flyingBoy-T1\flyingBoy.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\jetpack-t1\jetpack-t2\jetpack\boy jetpack.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\jetpack-t1\jetpack-t3\jetpack\boy jetpack.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\jetpack-t1\jetpack\boy jetpack.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\player run dust\playerRunDust.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\ship bullet-F1\shipBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\ship bullet-F2\shipBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\shipShootingEffect-F1\boyShipShootingEffect.atlas.txt" />
+    <None Include="Assets\Art and Animation\#Player\shipSmoke-F3\shipSmoke.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F1\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F10\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F11\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F12\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F13\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F14\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F15\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F2\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F3\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F4\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F5\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F6\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F7\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F8\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\BBB Runner -F9\boyRunner-StrokEdition-BBB head.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\boyRunner-F15\boy runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\bulletBrushBoy-F3\brushBoyBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\bulletCandleGirl-F2\candleGirlBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\explodeFX-F2\explodeFX.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F1\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F2\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F3\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F4\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F5\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\#PlayerRunner\girlRunner-F6\girl runner.atlas.txt" />
+    <None Include="Assets\Art and Animation\Bullet\bullet&amp;flash-f1\bullet anime.atlas.txt" />
+    <None Include="Assets\Art and Animation\Bullet\bullet-f2\bullet anime.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG goosfand-F1\gosfand.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG goosfand-F2\gosfand.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG jooje tighi-F1\jooje tighi.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG jooje tighi-F2\jooje tighi.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG lineD-F1\line D.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG lineT-F1\line T.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG navare bala-F1\navare bala.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\BG wheels-F1\wheels.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\Steak-F1\steak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\Steak-F2\steak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\Steak-F3\steak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\Steak-F4\steak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\Steak-F5\steak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\basket-F1\basket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\basket-F2\basket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\butcherBoss-F1\butcherBoss.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\butcherBoss-F2\butcherBoss.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\butcherBoss-F3\butcherBoss.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\cannBullet-F1\cann bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\cannedBuchet-F1\canned Butcher.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\cannedBuchet-F2\canned Butcher.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\cleaver-F2\Cleaver.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\cleaver-F3\Cleaver.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\egg-F1\egg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\egg-F2\egg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\fallingSteak-F1\fallingSteak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\fallingSteak-F1\oilBullet-F6\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\fallingSteak-F2\fallingSteak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\gholab-F1\gholab.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\gholab-F2\gholab.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\gholab-F3\gholab.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\hen-F2\hen.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\hen-F3\hen.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\hen-F4\hen.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\henDestruction-F1\henDestruction.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\henDestruction-F2\henDestruction.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\hook-F2\hook.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\hookCleaver-F1\hookCleaver.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\mushrooms-F1\mushroom.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F1\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F2\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F3\oilBullet-F4\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F3\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F5\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilBullet-F6\oilBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilSprayer-F1\oilSprayer.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilSprayer-F2\oilSprayer.atlas.txt" />
+    <None Include="Assets\Art and Animation\Butcher\Art and Animation\oilSprayer-F3\oilSprayer.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\chiken-F1\chiken.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\corn-F1\corn.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\corn-F2\corn.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\cornLightning-F1\cornLightning.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\jellyFire-F1\jellyFire.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\onion-F1\onion.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\onion-F3\onion.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\onion-F4\onion.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\onionBullet-F1\onionBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\popcorn-F1\popcorn.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\potato-F1\potato.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\enemys\tomato-F1\tomato.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\phase2-F3\cannibal phase2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\phase2-F4\cannibal phase2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\phase3-F2\cannibal-phase3.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\portal-F2\portal.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\sator-F1\sator.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\wormBody-F1\wormBody.atlas.txt" />
+    <None Include="Assets\Art and Animation\Cannibal\wormHead-F1\wormHead.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ball-F2\ball.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\dragonBullet-F2\dragonBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\flyerDragon-F6\flyerDragon.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ghost-F26\ghost.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ghost-F27\ghost.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\hand Bullet-F1\handBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\hand jugglerB-F4\handJugglerB.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\hand jugglerB-F7\handJugglerB.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\mouse-F1\mouse.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\mouse-F2\mouse.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ringBird-F2\ringBird.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ringBird-F4\ringBird.atlas.txt" />
+    <None Include="Assets\Art and Animation\Clown\ringBird-F5\ringBird.atlas.txt" />
+    <None Include="Assets\Art and Animation\Explodes\explodeFX-F1\explodeFX.atlas.txt" />
+    <None Include="Assets\Art and Animation\FinalBoss\gerdali-T1\gerdali.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\barrel-F2\barrel2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\barrel-F3\barrel2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\barrel-F5\barrel2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\blade-F1\blade.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\blade-F2\blade.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\dynamite-F1\Dynamite.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\dynamite-F2\Dynamite.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\key-F1\key.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\key-F2\key.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\obstacle-F1\obstacle.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\obstacle-F2\obstacle.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\tirak-F1\tirak.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\train-F10\gablin &amp; ghatar.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom 2\train-F11\gablin &amp; ghatar.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\RRR-F1\RRR.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\columnMan-F1\columnMan.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\columnMan-F2\columnMan.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\columnWoman-F2\columnWoman.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\daricheh-F3\columnDaricheh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Column\platform-F1\soton edite platform.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\blueEgg-F3\blueEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\blueEgg-F4\blueEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\dimEgg-F4\dimEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\dimEgg-F5\dimEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\eggExplotionFireDust-F2\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\handBullet-F1\hand bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\pinkEgg-F3\pinkEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\pinkEgg-F4\pinkEgg.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\roterBullet-F1\bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\Egg\skull-F1\bullet 2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\gablin-F3\bomb character ejra nahaei2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\gablin-F4\bomb character ejra nahaei2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Freedom1\kiss-F2\kiss.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\f7\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\f7\medadKhabideh\medadKhabideh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\f8\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\f9\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\medadIstade-f6\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\MedadHa\medadKhabideh\medadKhabideh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\Sanjagh\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\Tile\tilehBanafsh\tilehBanafsh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\Tile\tilehSabz\tilehSabz.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\dragon fire-f2\dragon fire\dragon fire.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\dragon-f2\ezhdeha nahaei.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\dragon-f3\ezhdeha nahaei.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\dragon-f4\ezhdeha nahaei.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\enchantFX-f1\enchantFX\enchantFX.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\jasozani-f17\ja_sozani.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\kise-f3\kise.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\kise-f4\kise.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\komod-F3\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\kotoleh-F5\kotole.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\magic fire-f2\magic fire\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\medadIstade-f10\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\medadIstade-f11\medadIstade\medadIstadeh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\mooshak-F4\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\mooshak-F5\mooshak\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\mooshak-f6\mooshak\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Jadoogar\mooshak-f7\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Manhunt\jellyFish-T1\jelly onion.atlas.txt" />
+    <None Include="Assets\Art and Animation\Manhunt\jellyFish-T2\jelly onion.atlas.txt" />
+    <None Include="Assets\Art and Animation\Manhunt\portal-T1\portal.atlas.txt" />
+    <None Include="Assets\Art and Animation\Maps\Map1\map freedom1-T1\map-freedom1.atlas.txt" />
+    <None Include="Assets\Art and Animation\Modes\BombMode\bombMode-T1\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Modes\MissileMode\racketMode-F1\racket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Modes\MissileMode\racketMode-F2\racket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Modes\MissileMode\racketMode-F3\racket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\blade board-F2\blade board.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\blade board-F3\blade board.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\ganesha mouse-F1\ganesha mouse.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\ganesha mouse-F2\ganesha mouse.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\ganesha mouse-F3\ganesha mouse.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\mortaz-phase1-F3\mortaz boss-phase1.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\mortaz-phase1-F4\mortaz boss-phase1.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\pinkBullet-F1\pink bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\pinkBullet-F2\pink bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\ring bullet-F1\ring bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\ring bullet-F2\ring bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\shiva-phase2-F3\shiva.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\shiva-phase2-F4\shiva.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\shiva-phase2-F5\shiva.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\shiva-phase2-F6\shiva.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\shiva-phase2-F7\shiva.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\smokeEnemy-F2\smoke enemy.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\snake-F1\snake.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\snake-F2\attack D bullet-F1\attackD bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\snake-F2\smokeEnemy-F3\smoke enemy.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\snake-F2\snake.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\storm-F1\storm FX.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\triangleBullet-F1\triangleBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\triangleBullet-F2\triangleBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\triangleEnemy-F1\triangleEnemy.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\triangleEnemy-F2\triangleEnemy.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\waterBullet-F1\waterBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Mortaz\Art and Animation\zarfe ab-F1\zarfe AB.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\BROs-F6\brosBoss.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\OLD\pailGirl-T19-V3.8\girlFly.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\battleBulet-F1\battleBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\bomb-F1\bomb.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\chang-F1\chang.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\chang-F2\chang.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\noteMoosighi-F1\note mosighi.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\pig-F1\pig.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\pig-F2\pig.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\pig-F3\pig.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\platform-F1\romaPlatform.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\platform-F2\romaPlatform.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\raadobargh-F3\radobargh.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\scorpionBullet-F1\scorpion bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\tabar-F1\tabar.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\tabar-F2\tabar.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\tabarCharacter-F1\tabarCharacter.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\tabarCharacter-F2\tabarCharacter.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\yonje-F1\yonje.atlas.txt" />
+    <None Include="Assets\Art and Animation\RomaBoss\zeytoon-F1\zeytoon.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\Hedgehog-F1\Hedgehog.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\Hedgehog-F2\Hedgehog.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\Hedgehog-F3\Hedgehog.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\crow-phase1-F8v\crow.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\crow-phase2-F5v\crow-phase2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\crow-phase3-F6v\crow-phase3 rocket.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\moorchekhar-F5v\moorche khar.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\moosheKoor-F5v\mooshe koor.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\scaryBird-F1\scaryBird.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\starMode-F1\boxMode.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\tale-F1\tale.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\tale-F2\tale.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\tale-F3\tale.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\tale-F4v\tale.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\wing-F1\wing.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\wing-F2\wing.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\worm-F2\worm.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\worm-F3v\worm.atlas.txt" />
+    <None Include="Assets\Art and Animation\Runner1\wormBullet-F1\worm bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\bastani bullet-F2\bastani bullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\bastani-F2\bastani.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\boomrang-F1\boomrang.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\boomrang-F2 V\boomrang.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\boomrangBullet-F1\boomrangBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\boomrangFace-F1\boomrangFace.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\boomrangFace-F2 V\boomrangFace.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\cane-F5\CANE2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\caneBullet-F1\caneBullet.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\firePhase3-F8\snowwomanFire.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\hat-F-1\hat.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\icecream machin-F5\icecreamMachine.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\icyPlatform-F1\icePlatform.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\naboodi bastani-F2\naboodi bastani.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\pangoan-F3\pangoan.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\pangoan-F4 V\pangoan.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\snowWoman-F5\snowwoman.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\snowWoman-F6 V\snowwoman.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\tabalugaBlow-F3\blowEffect.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\vazneh-F2\vazneh.atlas.txt" />
+    <None Include="Assets\Art and Animation\Tabaluga\wave-F1\wave.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\collider anim test\collider test.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\door animation-T1\only doorAnimations.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\gablinAttackA-T1\gablinAttack A.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\gablinGoToPhase2-F1\gablinGoToPhase2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\gablinIdleAnimations-F1\gablinIdleAnimations.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\gablinphase1-T3\gablinAnimations.atlas.txt" />
+    <None Include="Assets\Art and Animation\Test\gablinphase1-T4\gablinAnimations.atlas.txt" />
+    <None Include="Assets\Art and Animation\UI\LosePanel\lose panel-F1\losePanel.atlas.txt" />
+    <None Include="Assets\Art and Animation\UI\LosePanel\lose panel-F2\losePanel.atlas.txt" />
+    <None Include="Assets\Art and Animation\UI\LosePanel\lose panel-F3\losePanel.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\WOLF phase1-F9\wolf_phase1-start.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\WOLF phase2-F7\wolf_phase2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\WOLF phase3-F5\wolf-angel.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\cart-hamber-F1\cartHamber.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\dog-F3\dog.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\hamburFire-F2\skeleton.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\hamburFly-F1\hambur fly.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\lamb-F1\lamb2.atlas.txt" />
+    <None Include="Assets\Art and Animation\Wolf\wizardStar-F4\wisardStar.atlas.txt" />
+    <None Include="Assets\Art and Animation\Yeti\platform-T1\platform.atlas.txt" />
+    <None Include="Assets\Art and Animation\Yeti\platform-T2\platform.atlas.txt" />
+    <None Include="Assets\Art and Animation\boyRunner\boyRunner-StrokEdition.atlas.txt" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\Camera\BlendModes-Camera-Overlay.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-Framebuffer.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-FramebufferMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-Grab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-GrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-Overlay.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-OverlayMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-UnifiedGrab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesDefault\BlendModes-SpritesDefault-UnifiedGrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-Framebuffer.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-FramebufferMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-Grab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-GrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-Overlay.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-OverlayMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-UnifiedGrab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesHsbc\BlendModes-SpritesHsbc-UnifiedGrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-Framebuffer.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-FramebufferMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-Grab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-GrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-Overlay.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-OverlayMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-UnifiedGrab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\SpritesVectorGradient\BlendModes-SpritesVectorGradient-UnifiedGrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-Framebuffer.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-FramebufferMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-Grab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-GrabMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-Overlay.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-OverlayMasked.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-UnifiedGrab.shader" />
+    <None Include="Assets\BlendModes\Extensions\Shaders\UnlitTransparent\BlendModes-UnlitTransparent-UnifiedGrabMasked.shader" />
+    <None Include="Assets\BlendModes\Shaders\BlendFunctions.cginc" />
+    <None Include="Assets\BlendModes\Shaders\BlendModesCG.cginc" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Anomaly.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Binary.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_BlackHole.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Computer.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Distortion.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Dust.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Fog_Smoke.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Ghost.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Inverse.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Matrix.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Mirror.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Myst.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Scan_Scene.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Shield.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Snow.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_Blood.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_BloodOnScreen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_Blood_Hit.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_Blood_Plus.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_SuperComputer.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_SuperHexagon.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_WaterDrop.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_AAA_WaterDropPro.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Alien_Vision.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Antialiasing_FXAA.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Atmosphere_Fog.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Atmosphere_Rain.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Atmosphere_Rain_Pro.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Atmosphere_Rain_Pro_3D.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Atmosphere_Snow_8bits.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Blend.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_BlueScreen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Color.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_ColorBurn.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_ColorDodge.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_ColorKey.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Darken.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_DarkerColor.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Difference.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Divide.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Exclusion.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_GreenScreen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_HardLight.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_HardMix.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Hue.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Lighten.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_LighterColor.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_LinearBurn.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_LinearDodge.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_LinearLight.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Luminosity.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Multiply.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Overlay.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_PinLight.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Saturation.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Screen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_SoftLight.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_SplitScreen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_SplitScreen3D.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_Subtract.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blend2Camera_VividLight.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blizzard.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Bloom.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_BlurHole.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Blurry.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_DitherOffset.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Dithering2x2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Focus.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_GaussianBlur.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Movie.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Noise.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Radial.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Radial_Fast.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Regular.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Steam.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Tilt_Shift.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Tilt_Shift_Hole.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Tilt_Shift_V.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Broken_Screen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_BrightContrastSaturation.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Chromatic_Aberration.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Chromatic_Plus.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Contrast.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_GrayScale.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Invert.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Noise.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_RGB.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Sepia.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_Switching.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Color_YUV.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_Adjust_ColorRGB.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_Adjust_FullColors.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_Adjust_PreFilters.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_BleachBypass.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_Brightness.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_DarkColor.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_HSV.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_HUE_Rotate.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_NewPosterize.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_RgbClamp.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Colors_Threshold.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Convert_Normal.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Aspiration.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_BigFace.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_BlackHole.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Dissipation.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Dream.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Dream2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_FishEye.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Flag.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Flush.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Half_Sphere.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Heat.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Lens.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Noise.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_ShockWave.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_ShockWaveManual.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Twist.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Twist_Square.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Water_Drop.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Distortion_Wave_Horizontal.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_BluePrint.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_CellShading.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_CellShading2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Comics.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Crosshatch.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Curve.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_EnhancedComics.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Halftone.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Laplacian.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Lines.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga3.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga4.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga5.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga_Color.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga_Flash.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga_FlashWhite.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Manga_Flash_Color.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_NewCellShading.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Paper.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Paper2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Paper3.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Drawing_Toon.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_EXTRA_Rotation.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_EXTRA_SHOWFPS.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_BlackLine.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_Edge_filter.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_Golden.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_Neon.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_Sigmoid.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Edge_Sobel.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_EyesVision_1.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_EyesVision_2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_8bits.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_8bits_gb.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Ascii.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_DarkMatter.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_DigitalMatrix.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_DigitalMatrixDistortion.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Dot_Circle.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Drunk.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Drunk2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_EarthQuake.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Funk.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Glitch1.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Glitch2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Glitch3.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Grid.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Hexagon.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Hexagon_Black.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Hypno.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_InverChromiLum.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Mirror.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Plasma.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Psycho.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Scan.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Screens.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Spot.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_ZebraColor.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_superDot.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Film_ColorPerfection.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Film_Grain.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Fly_Vision.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Glasses_On.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Glasses_OnX.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Glitch_Mozaic.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Glow_Glow.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Glow_Glow_Color.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Ansi.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Desert.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_ElectricGradient.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_FireGradient.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Hue.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_NeonGradient.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Rainbow.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Stripe.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Tech.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Gradients_Therma.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Light_Rainbow.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Light_Rainbow2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Light_Water.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Light_Water2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Lut_PlayWith.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Lut_Plus.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Lut_Simple.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Lut_TestMode.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_NightVisionFX.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_NightVision_4.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Noise_TV.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Noise_TV_2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Noise_TV_3.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Oculus_NightVision1.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Oculus_NightVision2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Oculus_NightVision3.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Oculus_NightVision5.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Oculus_ThermaVision.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_OldFilm_Cutting1.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_OldFilm_Cutting2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Pixel_Pixelisation.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Pixelisation_Dot.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Pixelisation_OilPaint.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Pixelisation_OilPaintHQ.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Pixelisation_Sweater.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Real_VHS.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Retro_Loading.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Sharpen_Sharpen.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Special_Bubble.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_50.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_80.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_ARCADE.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_ARCADE_2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_ARCADE_Fast.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Artefact.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_BrokenGlass.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_BrokenGlass2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Chromatical.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Chromatical2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_CompressionFX.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Distorted.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Horror.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_LED.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_MovieNoise.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Noise.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Old.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Old_Movie.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Old_Movie_2.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_PlanetMars.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Posterize.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Rgb.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Tiles.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_VHS.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_VHS_Rewind.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Vcr.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Video3D.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Videoflip.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Vignetting.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_Vintage.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_WideScreenCircle.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_WideScreenHV.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_WideScreenHorizontal.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_TV_WideScreenVertical.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_VHS_Tracking.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Aura.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_AuraDistortion.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Blood.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Blood_Fast.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Crystal.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Drost.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Hell_Blood.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Plasma.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Psycho.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Rainbow.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_SniperScore.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Tunnel.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Warp.shader" />
+    <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Vision_Warp2.shader" />
+    <None Include="Assets\Spine\version.txt" />
+    <None Include="Assets\Test\BoyShip-F6\boyShip.atlas.txt" />
+    <None Include="Assets\Test\BoyShip-F8\boyShip.atlas.txt" />
+    <None Include="Assets\Test\airplane boy-T1\character 2.atlas.txt" />
+    <None Include="Assets\Test\ball-F2\ball.atlas.txt" />
+    <None Include="Assets\Test\boyRunner-F2\boy runner.atlas.txt" />
+    <None Include="Assets\Test\boyRunner-T2\boyRunner-StrokEdition.atlas.txt" />
+    <None Include="Assets\Test\ghost-F6\ghost.atlas.txt" />
+    <None Include="Assets\Test\pathTracking-T1\pathTrackingTest.atlas.txt" />
+    <None Include="Assets\Test\pathTracking-T2\pathTrackingTest.atlas.txt" />
+    <None Include="Assets\Test\pathTracking-T3\pathTrackingTest.atlas.txt" />
+    <None Include="Assets\Test\pathTracking-T4\pathTrackingTest.atlas.txt" />
+    <None Include="Assets\Test\pathTracking-T5\pathTrackingTest.atlas.txt" />
+    <None Include="Assets\Test\platform-T1\platform test.atlas.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

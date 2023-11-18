@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - EnemyBullet
+  - PlayerBullet
+  - Ground
+  - Wall
+  - Hazard
+  - PlayerOrginal
+  - DeathEnemy
+  - Platform
+  - NotPlatform
+  - Enviroment
+  - BulletDestroyer
+  - GroundSets
+  - BackgroundSets
+  - EnemyNoDamage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Boss
+  - Player
+  - Wall
+  - Hazard
+  - PlayerBullet
+  - BG
+  - NoDetect
+  - EnemyNoDamage
+  - Bouncer
+  - JustItself
+  - JustCollidePlayer
+  - SecondCam
+  - Ground2
+  - RunnerLine1
+  - RunnerLine2
+  - EnemyLine1
+  - EnemyLine2
+  - EnemyBothLine
+  - BouncerLine1
+  - BouncerLine2
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 455727675
+    locked: 0
+  - name: Ground
+    uniqueID: 2107476329
+    locked: 0
+  - name: Bishe
+    uniqueID: 1923736567
+    locked: 0
+  - name: EnemyLine2
+    uniqueID: 3798652257
+    locked: 0
+  - name: BulletLine2
+    uniqueID: 1386353951
+    locked: 0
+  - name: Enemy
+    uniqueID: 3884540201
+    locked: 0
+  - name: Player
+    uniqueID: 1789688737
+    locked: 0
+  - name: BulletLine1
+    uniqueID: 2318698215
+    locked: 0
+  - name: EnemyLine1
+    uniqueID: 1898533819
+    locked: 0
+  - name: ForGround
+    uniqueID: 3312088745
+    locked: 0
+  - name: UI
+    uniqueID: 3902269921
+    locked: 0

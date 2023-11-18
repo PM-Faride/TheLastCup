@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!19 &1
+Physics2DSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_Gravity: {x: 0, y: -9.81}
+  m_DefaultMaterial: {fileID: 0}
+  m_VelocityIterations: 8
+  m_PositionIterations: 3
+  m_VelocityThreshold: 1
+  m_MaxLinearCorrection: 0.2
+  m_MaxAngularCorrection: 8
+  m_MaxTranslationSpeed: 100
+  m_MaxRotationSpeed: 360
+  m_BaumgarteScale: 0.2
+  m_BaumgarteTimeOfImpactScale: 0.75
+  m_TimeToSleep: 0.5
+  m_LinearSleepTolerance: 0.01
+  m_AngularSleepTolerance: 2
+  m_DefaultContactOffset: 0.01
+  m_JobOptions:
+    serializedVersion: 2
+    useMultithreading: 0
+    useConsistencySorting: 0
+    m_InterpolationPosesPerJob: 100
+    m_NewContactsPerJob: 30
+    m_CollideContactsPerJob: 100
+    m_ClearFlagsPerJob: 200
+    m_ClearBodyForcesPerJob: 200
+    m_SyncDiscreteFixturesPerJob: 50
+    m_SyncContinuousFixturesPerJob: 50
+    m_FindNearestContactsPerJob: 100
+    m_UpdateTriggerContactsPerJob: 100
+    m_IslandSolverCostThreshold: 100
+    m_IslandSolverBodyCostScale: 1
+    m_IslandSolverContactCostScale: 10
+    m_IslandSolverJointCostScale: 10
+    m_IslandSolverBodiesPerJob: 50
+    m_IslandSolverContactsPerJob: 50
+  m_AutoSimulation: 1
+  m_QueriesHitTriggers: 1
+  m_QueriesStartInColliders: 1
+  m_CallbacksOnDisable: 1
+  m_ReuseCollisionCallbacks: 1
+  m_AutoSyncTransforms: 0
+  m_AlwaysShowColliders: 0
+  m_ShowColliderSleep: 1
+  m_ShowColliderContacts: 0
+  m_ShowColliderAABB: 0
+  m_ContactArrowScale: 0.2
+  m_ColliderAwakeColor: {r: 1, g: 0.1254902, b: 0, a: 1}
+  m_ColliderAsleepColor: {r: 0.057142735, g: 1, b: 0, a: 0.78431374}
+  m_ColliderContactColor: {r: 1, g: 0, b: 1, a: 0.6862745}
+  m_ColliderAABBColor: {r: 1, g: 1, b: 0, a: 0.2509804}
+  m_LayerCollisionMatrix: ffff65c0ffff66c0ffff66c0ffffffffffff66c0ffff66c0fffffffffffffffffffee4d2ffe564c0ffe764c0fff174c0ffe9e4c1ffbf64c0ffdf66c0ffff64c0c90065c0fe4064c0ffff6fc0c80064c0c80870c0ffff7fc0ffff7fe5c81100cac81040ccc80180cac80040cdc80080c7c80100c0c80040c0ffffffffffffffff

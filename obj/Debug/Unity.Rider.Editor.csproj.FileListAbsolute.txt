@@ -1,0 +1,2 @@
+D:\TheLastCup\Like Cuphead\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+D:\TheLastCup\Like Cuphead\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache
